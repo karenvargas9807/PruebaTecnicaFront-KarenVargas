@@ -25,3 +25,22 @@ footer .h6{
 .container-black{
     background-color: black !important;
 }
+
+.select {
+    font-style: normal;
+    background-color: #E7E6E7 !important;
+    border-radius: 0!important;
+
+ }
+ .form-control{
+    font-style: roboto;
+    background-color: #E7E6E7 !important;
+    border-radius: 0!important;
+ }
+
+ .btn{
+    border-radius: 0!important;
+    background-color: #EEAF54 !important;
+    border-color: #EEAF54 !important;
+    color: black !important;
+ }
