@@ -1,0 +1,27 @@
+.logotipo{
+    width: 150px;
+    padding: 10px 0;
+}
+
+.iconos-redes{
+    width: 20px;
+    margin: 10px 5px;
+}
+
+footer{
+    background-color: black;
+    padding: 20px 50px;
+}
+
+footer .h6{
+    color:aliceblue;
+    font-size: xx-small;
+}
+
+.navbar{
+    background-color: black !important;
+}
+
+.container-black{
+    background-color: black !important;
+}
