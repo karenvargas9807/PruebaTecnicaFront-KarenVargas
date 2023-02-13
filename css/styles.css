@@ -8,34 +8,28 @@
     margin: 10px 5px;
 }
 
-footer{
-    background-color: black;
-    padding: 20px 50px;
-}
-
-footer .h6{
-    color:aliceblue;
-    font-size: xx-small;
-}
-
 .navbar{
     background-color: black !important;
+    font-family: 'Roboto', sans-serif;
 }
 
 .container-black{
     background-color: black !important;
+    font-family: 'Roboto', sans-serif;
 }
 
 .select {
     font-style: normal;
     background-color: #E7E6E7 !important;
     border-radius: 0!important;
+    font-family: 'Roboto', sans-serif;
 
  }
  .form-control{
     font-style: roboto;
     background-color: #E7E6E7 !important;
     border-radius: 0!important;
+    font-family: 'Roboto', sans-serif;
  }
 
  .btn{
@@ -43,4 +37,25 @@ footer .h6{
     background-color: #EEAF54 !important;
     border-color: #EEAF54 !important;
     color: black !important;
+    font-family: 'Roboto', sans-serif;
  }
+
+ .main{ 
+  height:500px;
+  color: white;
+  background-image: url("../images/bg-asset-2.png");
+  background-position: 50% 50%;
+  font-family: 'Roboto', sans-serif;
+}
+
+.container{
+  font-family: 'Roboto', sans-serif;
+}
+.nav-link:select{
+  border-bottom: 5px solid #ffcc99;
+  color:#ffcc99!important;
+}
+.nav-link:hover {
+  border-bottom: 5px solid #ffcc99;
+  color:#ffcc99!important;
+}
