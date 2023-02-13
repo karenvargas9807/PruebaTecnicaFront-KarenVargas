@@ -59,3 +59,8 @@
   border-bottom: 5px solid #ffcc99;
   color:#ffcc99!important;
 }
+
+footer{
+    background-color: black;
+    padding: 20px 50px;
+}
